@@ -24,4 +24,4 @@ Since the game has more than $`2 \cdot 10^9`$ states, all checks for analysis ar
 
 In the end, the initial state is included in the winning states for player A, which means that the starting player can force a win.
 
-(c) Christoph Muessig
+(c) Mia Muessig
